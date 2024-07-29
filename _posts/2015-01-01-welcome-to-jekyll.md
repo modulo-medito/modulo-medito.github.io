@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to Jekyll!
 subtitle: A awesome static site generator.
-author: Jeffrey
+author: Modulo Medito
 categories: jekyll
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
@@ -36,6 +36,8 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+
+code like this
 
 ## section 2
 
